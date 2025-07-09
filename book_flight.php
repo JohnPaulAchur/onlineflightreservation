@@ -170,7 +170,7 @@ $arrival_time = date("F j, Y . H:i", strtotime($row['arrivale']));
                             </div>
 
                             <div class="col-md-3 text-md-end">
-                                <h4>$' . number_format($price, 2) . '</h4>';
+                                <h4>₦' . number_format($price, 2) . '</h4>';
                                 
                 // Booking button
                 if (isset($_SESSION['userId']) && $row['status'] === '') {

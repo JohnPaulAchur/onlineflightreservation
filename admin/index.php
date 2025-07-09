@@ -97,7 +97,7 @@ require '../helpers/init_conn_db.php';?>
                 <div class="icon-section">
                   <i class="fa fa-money" aria-hidden="true"></i><br>
                  Amount
-                  <p>$ <?php include 'amtcnt.php';?></p>
+                  <p>₦ <?php include 'amtcnt.php';?></p>
                 </div>
                
               </div>
