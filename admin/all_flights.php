@@ -1,4 +1,4 @@
-<?php include_once 'header.php'; ?><!-- log on to freeprojectscodes.com for more projects -->
+<?php include_once 'header.php'; ?>
 <?php include_once 'footer.php';
 require '../helpers/init_conn_db.php';?>
 <?php
